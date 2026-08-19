@@ -1,0 +1,4 @@
+/server
+/bin
+.env
+setup_and_test.ps1
